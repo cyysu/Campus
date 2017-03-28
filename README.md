@@ -26,7 +26,7 @@
     
 **自我评价：善于思考，乐于实践**
 
-[项目地址](https://github.com/cyysu/Matlab.git)
+[项目地址](https://github.com/cyysu/Matlab.git) https://github.com/cyysu/Matlab.git
 
 ----
 
@@ -35,7 +35,8 @@
     团队组成为1人，采用CycloneIV代FPGA芯片，本项目需要完成的工作有在QuartusII软件设计电路的原理图，原理验证。
 
 **自我评价：善于思考，乐于实践**
-[项目地址](https://github.com/cyysu/FPGA)
+
+[项目地址](https://github.com/cyysu/FPGA) https://github.com/cyysu/FPGA
 
 ---
 
